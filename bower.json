@@ -18,6 +18,7 @@
   "dependencies": {
     "angular": "^1.6.1",
     "angular-route": "^1.6.1",
-    "bower": "*"
+    "bower": "*",
+    "bootstrap": "^3.3.7"
   }
 }
